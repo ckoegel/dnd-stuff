@@ -34,4 +34,5 @@ Hephest sent me a memo earlier this week telling me he wants me to start doing f
 ## For Connor
 Ik Jeremy is in the Gruul clans, so Klex could tie in with him, with him either being someone we can work with, or he might oppose Jeremy and cause tension.
 
-## TLDR
+## TLDR for the Table
+I'm a bright blue Goblin named Opi. I work as the leader of the Research and Testing Team within the Izzet League. I'm a wild magic sorcerer who loves chaos and testing out new equipment and ideas. I grew up in the 4th precinct and work in Nivix.

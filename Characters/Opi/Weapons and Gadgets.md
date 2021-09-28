@@ -36,4 +36,3 @@ The device can be used to make 2 different types of attacks and 1 action:
 | 31-60 | The mortars internal selector fails and performs the oppposite attack than intended. Mizzium Pillar aims at the center point at the end of where Molten Spray was aimed. Molten Spray shoots in the direction of where Mizzium Pillar was aimed. |
 | 61-80 | The mortar functions properly, but does not heat to its desired temperature. Molten Spray creates a 10-foot cone and deals 2d4 fire damage. Mizzium Pillar creates a 10-foot high cylinder and deals 2d4 damage. |
 | 81-100 | The mortar functions properly. |
-
