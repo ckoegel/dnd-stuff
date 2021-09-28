@@ -1,6 +1,8 @@
+# Weapons and Gadgets
+
 ## Gadgets
 
-**Mizzium Grappling Hook**
+### Mizzium Grappling Hook
 
 Can be mounted on a mizzium apparattus to free up hands, though you must have a free hand to operate and climb with it. Consists of a mizzium grappling hook and 30ft of rope. It can be shot as an action and if hooked on top of a wall can give a climbing speed of half of your movement. A bonus action can be used to retract the hook if it is not lodged in something. A bonus action can be taken by the user or someone it is lodged on to remove it. If used to climb, it does not need to be retracted if the user climbs to where the hook is lodged.
 
@@ -17,7 +19,7 @@ Can be mounted on a mizzium apparattus to free up hands, though you must have a 
 
 ## Weapons
 
-**Pocket Mizzium Mortar**
+### Pocket Mizzium Mortar
 
 An 8 inch long, 2 inch diameter tube made from mizzium that shoots small balls of molten mizzium. Designed to be a more portable version of the full size mizzium mortar. The mortar has 4 charges and regains 1d4 expended charges daily at dawn. Can be used as an action to start fires or as an attack.
 
