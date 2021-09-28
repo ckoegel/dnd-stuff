@@ -5,8 +5,8 @@
 Can be mounted on a mizzium apparattus to free up hands, though you must have a free hand to operate and climb with it. Consists of a mizzium grappling hook and 30ft of rope. It can be shot as an action and if hooked on top of a wall can give a climbing speed of half of your movement. A bonus action can be used to retract the hook if it is not lodged in something. A bonus action can be taken by the user or someone it is lodged on to remove it. If used to climb, it does not need to be retracted if the user climbs to where the hook is lodged.
 
 *This device is still in testing, so roll a d100 to determine the outcome of the shot.*
-| Rolled | Description |
-|--------|-------------|
+|  Rolled  | Description |
+|----------|-------------|
 | 1-10 | The hook shoots backwards, entangling the user in its rope, leaving the user restrained. They can untangle themselves or be untangled by someone else as an action and must retract the hook before it can be used again. |
 | 11-20 | The hook shoots in a random direction at an ally within range. Make a ranged attack roll against the players AC. If it hits them, it deals 1d4 piercing damage and is lodged on them. |
 | 21-30 | The hook shoots in a random direction at an ally within range. They must make a DC12 Dex save to avoid it. If it hits them, they are restrained. They can untangle themselves or be untangled by someone else as an action. |
@@ -29,8 +29,8 @@ The device can be used to make 2 different types of attacks and 1 action:
 | Light Fire | Action | You can expend 1 charge as an action to light a fire, the device has a 10ft range. Make a DC10 Sleight of Hand check to attempt to ignite any one flammable object in range. On a pass, a roll of 21 or higher on a d100 will successfully ignite the object, otherwise the mortar fizzles and fails. Expend the charge only if it succeeds in igniting. |
 
 *This device is still in testing, so roll a d100 to determine the outcome of the attack made.*
-| Rolled | Description |
-|--------|-------------|
+|  Rolled  | Description |
+|----------|-------------|
 | 1-10 | The mortar explodes in the users hand, dealing 3d8 fire damage in a 5ft radius around the user. Creatures other than the user can make a DC15 Dex save to take half dmg. The mortar is now useless but can be fixed by a Mending spell. |
 | 11-30 | The mortar fails to properly heat the mizzium it is about to fire. Molten Spray fizzles and does nothing. Mizzium Pillar shoots a lukewarm ball of mizzium to the point chosen. Make a ranged attack against the creature or structure on that point. A hit deals 1d6 bludgeoning damage. |
 | 31-60 | The mortars internal selector fails and performs the oppposite attack than intended. Mizzium Pillar aims at the center point at the end of where Molten Spray was aimed. Molten Spray shoots in the direction of where Mizzium Pillar was aimed. |
