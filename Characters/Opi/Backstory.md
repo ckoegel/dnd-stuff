@@ -1,11 +1,11 @@
 ## Names
-Opi Oyds - Me
-Nara Oyds - Mom
-Dukar Oyds - Dad
-Raka Synda - Best Friend
-Pirdan Hilsov - Rival
-Klex Mcgex - Gruul Clan Acquaintance
-Hephest Greer - My Izzet Supervisor
+* Opi Oyds - Me
+* Nara Oyds - Mom
+* Dukar Oyds - Dad
+* Raka Synda - Best Friend
+* Pirdan Hilsov - Rival
+* Klex Mcgex - Gruul Clan Acquaintance
+* Hephest Greer - My Izzet Supervisor
 
 ## Backstory for Opi Oyds
 
