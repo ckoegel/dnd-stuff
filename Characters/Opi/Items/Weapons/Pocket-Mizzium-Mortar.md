@@ -12,7 +12,7 @@ The device can be used to make 2 different types of attacks and 1 action:
 *This device is still in testing, roll a d100 to determine the outcome of the attack made.*
 | d100 Roll | Description |
 |-----------|-------------|
-| 1-10 | The mortar explodes in the users hand, dealing 3d8 fire damage in a 5ft radius around the user. Creatures other than the user can make a DC15 Dex save to take half dmg. The mortar is now useless but can be fixed by a Mending spell. |
+| 1-10 | The mortar explodes in the users hand, dealing 3d8 fire damage in a 5ft radius around the user. Creatures other than the user can make a DC15 Dex save to take half dmg. The mortar is now unusable until it is repaired by an Izzet engineer or the Mending Spell. |
 | 11-30 | The mortar fails to properly heat the mizzium it is about to fire. Molten Spray fizzles and does nothing. Mizzium Pillar shoots a lukewarm ball of mizzium to the point chosen. Make a ranged attack against the creature or structure on that point. A hit deals 1d6 bludgeoning damage. |
 | 31-60 | The mortars internal selector fails and performs the oppposite attack than intended. Mizzium Pillar aims at the center point at the end of where Molten Spray was aimed. Molten Spray shoots in the direction of where Mizzium Pillar was aimed. |
 | 61-80 | The mortar functions properly, but does not heat to its desired temperature. Molten Spray creates a 10-foot cone and deals 2d4 fire damage. Mizzium Pillar creates a 10-foot high cylinder and deals 2d4 damage. |
