@@ -1,4 +1,4 @@
-# Pocket Mizzium Mortar
+# Pocket Mizzium Mortar Prototype
 
 From the Laboratory of Pyrology, the Pocket Mizzium Mortar is an 8 inch long, 2 inch diameter tube made from mizzium that shoots small balls of molten mizzium. Designed to be a more portable version of the full size mizzium mortar. The mortar has 4 charges and regains 1d4 expended charges daily at dawn. Can be used as an action to start fires or as an attack.
 

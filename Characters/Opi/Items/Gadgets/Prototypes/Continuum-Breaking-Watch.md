@@ -1,4 +1,4 @@
-# Continuum Breaking Watch
+# Continuum Breaking Watch Prototype
 
 From the Laboratory of Continuism, the Continuum Breaking Watch is designed to allow you to exceed the boundaries of time. When not in use, the watch functions as a normal watch, and is made of gold, bronze and leather. The inner gears of the watch are visible behind the watch face.
 
