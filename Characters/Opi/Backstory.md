@@ -7,7 +7,7 @@
 * Dukar Oyds - Dad, Goblin Sorcerer
 * Raka Synda - Best Friend, Goblin Fighter
 * Pirdan Hilsov - Rival, Vedalken Wizard
-* Klex Mcgex - Gruul Clan Acquaintance, Gblin Fighter
+* Klex Mcgex - Gruul Clan Acquaintance, Goblin Fighter
 * Hephest Greer - My Izzet Supervisor, Human Sorcerer
 
 ## Backstory for Opi Oyds
