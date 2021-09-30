@@ -2,7 +2,7 @@
 
 From the Laboratory of Alchemy, collaboration with the Simics allowed for the creation of the Superior Upwelling Healing Potion. This potion contains a mixture of chemicals including nutrient rich ocean water and mizzium flakes. Drinking the potion as an action should restore health and cure status ailments, but as with most things that come from Izzet labs, results are not always as expected.
 
-*This device is still in testing, roll a d100 to determine the outcome of drinking the potion.*
+*This potion is still in testing, roll a d100 to determine the outcome of drinking the potion.*
 | d100 Roll | Description |
 |-----------|-------------|
 | 1-10 | The potion is too much for your body to handle. You regain 1d8 HP and immediatly become unconscious for 1d4 hours. To those around you, it appears as though you drop dead upon drinking the potion. |
