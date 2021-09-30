@@ -1,6 +1,6 @@
 # Superior Upwelling Healing Potion Prototype
 
-From the Laboratory of Alchemy, collaboration with the Simics allowed for the creation of the Upwelling Healing Potion. This potion contains a mixture of chemicals including nutrient rich ocean water and mizzium flakes. Drinking the potion as an action should restore health and cure status ailments, but as with most things that come from Izzet labs, results are not always as expected.
+From the Laboratory of Alchemy, collaboration with the Simics allowed for the creation of the Superior Upwelling Healing Potion. This potion contains a mixture of chemicals including nutrient rich ocean water and mizzium flakes. Drinking the potion as an action should restore health and cure status ailments, but as with most things that come from Izzet labs, results are not always as expected.
 
 *This device is still in testing, roll a d100 to determine the outcome of drinking the potion.*
 | d100 Roll | Description |
