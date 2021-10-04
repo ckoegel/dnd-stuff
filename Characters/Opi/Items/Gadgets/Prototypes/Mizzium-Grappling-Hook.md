@@ -8,7 +8,7 @@ From the Laboratory of Metallurgy, the Mizzium Grappling Hook can be mounted on 
 | 1-10 | The hook shoots backwards, entangling the user in its rope, leaving the user restrained. They can untangle themselves or be untangled by someone else as an action and must retract the hook before it can be used again. |
 | 11-20 | The hook shoots in a random direction at an ally within range. Make a ranged attack roll against the players AC. If it hits them, it deals 1d4 piercing damage and is lodged on them. |
 | 21-30 | The hook shoots in a random direction at an ally within range. They must make a DC12 Dex save to avoid it. If it hits them, they are restrained. They can untangle themselves or be untangled by someone else as an action. |
-| 31-50 | The hook shoots where aimed, and if lodged, immediately retracts, pulling the user unwillingly to the hooks location. The user must make a DC12 strength check to avoid being knocked prone upon arrival.
+| 31-50 | The hook shoots where aimed, and if lodged, immediately retracts, pulling the user unwillingly to the hooks location. The user must make a DC12 strength check to avoid being knocked prone upon arrival. |
 | 51-60 | The hook shoots in a random direction at an enemy within range. Make a ranged attack roll against the enemy's AC. If it hits them, it deals 1d4 piercing damage and is lodged on them. |
 | 61-70 | The hook shoots in a random direction at an enemy within range. They must make a DC12 Dex save to avoid it. If it hits them, they are restrained. They can untangle themselves or be untangled by someone else as an action. |
 | 71-100 | The hook shoots where aimed, and can be used as intended. |
