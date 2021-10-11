@@ -1,5 +1,7 @@
 # Spatial Recombination Stone
 
+*Wondrous Item, Rare*
+
 From the Lab of Orientation, this smooth, 2 inch brown stone contains a mixture of magic and wires. It gives off a faint bronze glow, and if you listen closesly, you can hear the whirring of the parts inside. It can be thrown to teleport creatures to different locations, and sometimes planes. As an action on your turn, you may throw the stone up to 4 times your Strength score feet in any direction. The stone has 6 charges and regains 1d6 charges daily at dawn. Choose the teleportation effect you would like to use from the table and expend the numbers of charges for the respective effect. If the stone successfully teleports a creature, the stone reappears in the throwers hand.
 
 | Name(Charges) | Description |
