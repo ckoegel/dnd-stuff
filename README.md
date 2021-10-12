@@ -1,4 +1,4 @@
-# Personal DND Repo
+# Personal DND Repository
 
 ## Includes:
 * [Scanned Character Sheets](/Characters)

@@ -5,7 +5,7 @@ Plans for the Shapeshifting Shortsword may or may not have been stolen from a Si
 *This weapon is still in testing, roll a d100 to determine the form the sword takes.*
 | d100 Roll | Sword Form and Effect |
 |-----------|-----------------------|
-| 1-12 | The Shortsword remains a normal shortsword. You attack as though you are weilding a regular shortsword, dealing 1d6+Str/Dex piercing damage. |
+| 1-12 | The Shortsword remains a normal shortsword. You attack as though you are wielding a regular shortsword, dealing 1d6+Str/Dex piercing damage. |
 | 13-20 | The sword takes the form of a small Water Weird. The weird slams into the attacked creature, dealing 1d6+3 bludgeoning damage. The creature must succeed on a DC13 Strength save or be pushed backwards 10 feet. |
 | 21-28 | The sword takes the form of a small Poison Weird. The weird slams into the attacked creature, dealing 1d6+3 bludgeoning damage. The creature must succeed on a DC13 Constitution save or become poisoned. The creature may reattempt this save at the beginning of each of its turns until no longer poisoned. |
 | 29-36 | The sword forms into the tentacle of a Sharktocrab. The tentacle wraps around the attacked creature, dealing 1d8+3 bludgeoning damage and grappling the creature until you make another attack with this sword. |
