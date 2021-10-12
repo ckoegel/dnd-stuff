@@ -12,12 +12,9 @@
 
 ## Backstory for Opi Oyds
 
-test 1 4th precinct kjg
-
-test 2 4th precinct lkjlk
 ### Early Life
 
-I grew up in The Bulwark in the 4th precinct. My childhood friend(Raka) is more chaotic than me and not interested in learning spellcasting or inventions. He's now a higher up in the Shattergang Brothers, one of the goblin gangs prominent in the 4th precinct. Because of him, I'm very comfortable on Tin St and never have to worry about goblin gangs. I hang out with Raka from time to time and we're still good friends.
+I grew up in The Bulwark in the fourth precinct. My childhood friend(Raka) is more chaotic than me and not interested in learning spellcasting or inventions. He's now a higher up in the Shattergang Brothers, one of the goblin gangs prominent in the fourth precinct. Because of him, I'm very comfortable on Tin St and never have to worry about goblin gangs. I hang out with Raka from time to time and we're still good friends.
 
 My dad worked his way up in the Izzet League, eventually working in Nivix and my parents moved to Plaza South in the 1st precinct because they were well off. When I was young, I wanted to be just like my dad, which was only fueled by our shared innate gift of sorcerous spellcasting. I'm not the smartest and never have been, and intelligence is highly sought after in the Izzet League. I was never that good in school, and spent most of my time goofing off with Raka, which was fun, but also bothered me that I couldn't see a definite future in the Izzet League for me.
 
@@ -44,4 +41,4 @@ I know Jeremy is in the Gruul clans, so Klex could tie in with him, with him eit
 
 ## TLDR for the Table
 
-I'm a bright blue Goblin named Opi. I work as the leader of the Research and Testing Team within the Izzet League. I'm a wild magic sorcerer who loves chaos and testing out new equipment and ideas. I grew up in the 4th precinct and work in Nivix.
+I'm a bright blue Goblin named Opi. I work as the leader of the Research and Testing Team within the Izzet League. I'm a wild magic sorcerer who loves chaos and testing out new equipment and ideas. I grew up in the fourth precinct and work in Nivix.
