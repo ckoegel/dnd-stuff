@@ -27,7 +27,6 @@ DM
 reroll
 rerolled
 attunement
-Ethereal
 Continuism
 Pyrology
 Shortsword
@@ -44,6 +43,7 @@ DND
 Homebrew
 Ravnica
 spellcasting
+spellcaster
 sorcerous
 R&TT
 ideating
@@ -52,3 +52,5 @@ teleports
 teleported
 teleporting
 unequip
+chiefton
+TT
