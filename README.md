@@ -1,5 +1,6 @@
 # Personal DND Repository
 
+Spellcheck: [![Test](https://github.com/ckoegel/dnd-stuff/actions/workflows/spell_check.yml/badge.svg)](https://github.com/ckoegel/dnd-stuff/actions/workflows/spell_check.yml)
 ## Includes:
 * [Scanned Character Sheets](/Characters)
 * [Player Resources](/Resources)
