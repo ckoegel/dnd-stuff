@@ -7,7 +7,7 @@ The watch has 4 charges, and regains 1d4 expended charges daily at dawn. As a fr
 *This device is still in testing, roll a d100 to determine the outcome of using the watch.*
 | d100 Roll | Description |
 |-----------|-------------|
-| 1-10 | Continuum modifying particles are fragile and volatile. The watch explodes upon use, sending glass shards flying out in a 5ft radius around the user. Creatures within the radius must make a DC12 Dex save or take 1d6 piercing damage. The watch is now unusable until it is repaired by an Izzet engineer or the Mending Spell. |
+| 1-10 | Continuum modifying particles are fragile and volatile. The watch explodes upon use, sending glass shards flying out in a 5ft radius around the user. Creatures within the radius must make a DC12 Dexterity save or take 1d6 piercing damage. The watch is now unusable until it is repaired by an Izzet engineer or the Mending Spell. |
 | 11-30 | The watch malfunctions, accidentally speeding up time for you. Your turn immediately ends and you have the effects of the Stunned condition until the end of your next turn. No spells can remove this effect as you are simply travelling through time faster than those around you. |
 | 31-70 | You watch as time slows around you, kind of.... It seems as though the watch didn't work to its fullest potential. Nonetheless, with your enhanced perception of time, you may take an extra bonus action on your current turn, or an extra reaction in the current round. |
 | 71-85 | Time has instantly become slower for you, and you are able to take an extra bonus action on your turn and an extra reaction for the next 1d4 rounds, beginning with your current turn and the current round. |
