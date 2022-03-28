@@ -37,6 +37,7 @@ Challenge 1/2 (100 XP)
 _Formation Tactics._ The soldier has advantage on saving throws against being charmed, frightened, grappled, or restrained while it is within 5 feet of at least one ally.
 
 **Actions**
+
 Multiattack. The soldier makes two melee attacks.
 
 Longsword. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.
@@ -58,6 +59,7 @@ Languages: understands Draconic but cant speak it
 Challenge 2 (250XP)
 
 **Actions**
+
 Multiattack. The drake attacks twice, once with its bite and once with its tail.
 
 Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
@@ -78,11 +80,13 @@ Languages: Common
 Challenge 1/2
 
 **Traits** 
+
 Explosive Tank. When the guard dies, or if it rolls a 1 when checking whether its Scorchbringer action recharges, the tank on its back explodes in a 10-foot radius sphere. Each creature in that area must make a DC12 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects that aren't being worn or carried, and it destroys the scorchbringer.
 
 Has 2 Potion of Healing (2d4 + 2) that can be used on himself or the party. Will prioritize healing the party since he doesn't want to make the blistercoil worse.
 
 **Actions**
+
 Light Hammer. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.
 
 Scorchbringer - Recharge 4. The guard's scorchbringer spouts a stream of flame in a line that is 30 feet long and 5 feet wide. Each creature in the line must make a DC: 12 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
@@ -105,6 +109,7 @@ Languages: Draconic
 Challenge 4 (1100XP)
 
 **Traits**
+
 _Feed on Fire._ If the weird takes fire damage from a spell or other magical effect, its size increases by one category. If there isn't enough room for the weird to increase in size, it attains the maximum size possible in the space available. While the weird is Large or bigger, it makes Strength checks and saving throws with advantage. If the weird starts its turn at Gargantuan size, the weird releases energy in an explosion. Each creature within 30 feet of the weird must make a DC12 Dexterity saving throw, taking 28 (8d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in the area that aren't being worn or carried. The weird's size then becomes Medium.
 
 _Form of Fire and Water._ The weird can move through a space as narrow as 1 inch wide without squeezing. In addition, the weird can enter a hostile creature's space and stop there. The first time the weird enters another creature's space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the burning creature takes 5 (1d10) fire damage at the start of each of its turns.
@@ -114,6 +119,7 @@ _Heated Body._ A creature that touches the weird or hits it with a melee attack 
 _Illumination._ The weird sheds bright light in a 30-foot radius and dim light for an additional 30 feet.
 
 **Actions**
+
 Slam. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage plus 7 (2d6) fire damage, or 11 (2d8 + 3) bludgeoning damage plus 14 (4d6) fire damage if the weird is Large or bigger.
 
 
@@ -136,7 +142,8 @@ Challenge 5 (2,000 XP)
 
 Special Traits
 
-**Spellcasting** 
+**Spellcasting**
+
 8th-level wizard, spell save DC 14, +6 to hit with spell attacks. The mage has the following spells prepared:
 
 - Cantrips (at will):
