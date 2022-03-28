@@ -4,9 +4,9 @@ _This takes place just before the current mission the team is on._
 Opi is currently visiting his mother in Precinct 1, so he is unavailable for this task.
 
 # Story
-The group is walking on Tin St near Precinct 5 approached by a [soldier](#soldier) who Seli may recognize for working as a guard as one of the Selesnya tents. The guard recognizes them and is frantic, asking for help. He looks beaten up and keeps saying something about being asked to investigate a house and a drake. If the groupp chooses to follow him, he leads them to a house in the blistercoils. 
+The group is walking on Tin St near Precinct 5 approached by a [soldier](#soldier) who Seli may recognize for working as a guard as one of the Selesnya tents. The guard recognizes them and is frantic, asking for help. He looks beaten up and keeps saying something about being asked to investigate a house and a drake. If the group chooses to follow him, he leads them to a house in the blistercoils. 
 
-There are windows with closed curtains that are unable to be opened. The bathroom window is 10ft off the ground and unobstructed, but just looks into an empty bathroom with the door closed. The front door is closed but unlocked, upon entering, a [blue guard drake](#blue-guard-drake) springs out from behind a chair and attacks the first player. Combat until drake is killed or subdued. If the soldier is alive after the combat, he will calm down and tell the party he was supposed to investigate a suspicious person who lived here. The guy apparantly has made threats to some of the professors at Prism University and the Azorius wanted to find out more so they sent him to investigate the house but he got his ass kicked by the guard drake. The guard drake has a nametag (Dylan).
+There are windows with closed curtains that are unable to be opened. The bathroom window is 10ft off the ground and unobstructed, but just looks into an empty bathroom with the door closed. The front door is closed but unlocked, upon entering, a [blue guard drake](#blue-guard-drake) springs out from behind a chair and attacks the first player. Combat until drake is killed or subdued. If the soldier is alive after the combat, he will calm down and tell the party he was supposed to investigate a suspicious person who lived here. The guy apparently has made threats to some of the professors at Prism University and the Azorius wanted to find out more so they sent him to investigate the house but he got his ass kicked by the guard drake. The guard drake has a name tag (Dylan).
 
 Investigation of 10 or higher in the bedroom (desk) will reveal the resident(Eric) was a former Prism University student who got kicked out for bad grades and behavior. There is also a key in the desk drawer. Perception of 12 or higher in the living room  will reveal the rug on the floor has been burned, pulling the rug back reveals a trapdoor. The trapdoor is locked and the key can be found in the desk drawer (it can also be picked with a DC11 Sleight of Hand). The trapdoor has a weak glyph of warding that can be detected by a DC 14 Investigation check or a detect magic spell. The glyph requires a verbal password (Dylan). If the glyph is triggered, everyone in a 10ft radius takes 3d6 lightning damage.
 
@@ -16,7 +16,7 @@ Its ~20min to the school and outside, they run into Connors character who says h
 
 The first row of bookshelves has been mostly knocked over and are starting to catch fire, one other bookshelf near the weird is on fire but still standing. [Eric](#mage-eric) is looking down on the chaos laughing from the second floor balcony. The guard lets the party know that the books in here are very valuable so they should try to save as many as they can, and try to take Eric alive if possible. Combat ensues, using the falling bookshelves as obstacles and difficult terrain. Eric will mostly attempt to run from the party and destroy more of the library rather than fight back. 
 
-After combat the guard and firefighters will arrive, the party can choose to hand Eric over to the gaurd or kill him.
+After combat the guard and firefighters will arrive, the party can choose to hand Eric over to the guard or kill him.
 
 
 # Stat Blocks
@@ -101,7 +101,7 @@ Speed: 40ft., swim 60ft.
 |---------|---------|---------|--------|--------|--------|
 | 16 (+3) | 16 (+3) | 15 (+2) | 10 (0) | 5 (-2) | 7 (-2) |
 
-Damage Resistances: cold, fire; and bludgeoning, piercing and slashing from nonmagical attacks
+Damage Resistances: cold, fire; and bludgeoning, piercing and slashing from non-magical attacks
 Damage Immunities: poison
 Condition Immunities: exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 Senses: darkvision 60 ft., passive perception 10
@@ -110,7 +110,7 @@ Challenge 4 (1100XP)
 
 **Traits**
 
-_Feed on Fire._ If the weird takes fire damage from a spell or other magical effect, its size increases by one category. If there isn't enough room for the weird to increase in size, it attains the maximum size possible in the space available. While the weird is Large or bigger, it makes Strength checks and saving throws with advantage. If the weird starts its turn at Gargantuan size, the weird releases energy in an explosion. Each creature within 30 feet of the weird must make a DC12 Dexterity saving throw, taking 28 (8d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in the area that aren't being worn or carried. The weird's size then becomes Medium.
+_Feed on Fire._ If the weird takes fire damage from a spell or other magical effect, its size increases by one category. If there isn't enough room for the weird to increase in size, it attains the maximum size possible in the space available. While the weird is Large or bigger, it makes Strength checks and saving throws with advantage. If the weird starts its turn at Gargantuan size, the weird releases energy in an explosion. Each creature within 30 feet of the weird must make a DC12 Dexterity saving throw, taking 28 (8d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in the area that aren't being worn or carried. The weird then becomes size Medium.
 
 _Form of Fire and Water._ The weird can move through a space as narrow as 1 inch wide without squeezing. In addition, the weird can enter a hostile creature's space and stop there. The first time the weird enters another creature's space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the burning creature takes 5 (1d10) fire damage at the start of each of its turns.
 
@@ -144,7 +144,7 @@ Special Traits
 
 **Spellcasting**
 
-8th-level wizard, spell save DC 14, +6 to hit with spell attacks. The mage has the following spells prepared:
+Level 8 wizard, spell save DC 14, +6 to hit with spell attacks. The mage has the following spells prepared:
 
 - Cantrips (at will):
     - fire bolt
