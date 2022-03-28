@@ -156,15 +156,15 @@ Level 8 wizard, spell save DC 14, +6 to hit with spell attacks. The mage has the
     - mage armor
     - magic missile 
     - shield
-    - absorb elements jkh
-- 2nd level (3 slots): kjasdfgh
+    - absorb elements
+- 2nd level (3 slots):
     - misty step
     - mirror image
-- 3rd level (3 slots): 
+- 3rd level (3 slots):
     - counterspell
-    - fireball iuweyr
+    - fireball
     - fly
-- 4th level (2 slots)(1 used): kjahsd
+- 4th level (2 slots)(1 used):
     - greater invisibility
     - death ward
 
