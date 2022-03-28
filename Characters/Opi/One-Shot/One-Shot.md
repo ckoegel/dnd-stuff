@@ -16,7 +16,7 @@ Its ~20min to the school and outside, they run into Connors character who says h
 
 The first row of bookshelves has been mostly knocked over and are starting to catch fire, one other bookshelf near the weird is on fire but still standing. [Eric](#mage-eric) is looking down on the chaos laughing from the second floor balcony. The guard lets the party know that the books in here are very valuable so they should try to save as many as they can, and try to take Eric alive if possible. Combat ensues, using the falling bookshelves as obstacles and difficult terrain. Eric will mostly attempt to run from the party and destroy more of the library rather than fight back. 
 
-After combat the guard and firefighters will arrive, the party can choose to hand Eric over to the guard or kill him. If he is returned alive, the party will receive 200gp, if he is dead, the party receives 50gp.
+After combat the guard and firefighters will arrive, the party can choose to hand Eric over to the guard or kill him. If he is returned alive, the party will receive 200 gold, if he is dead, the party receives 50 gold.
 
 
 # Stat Blocks
