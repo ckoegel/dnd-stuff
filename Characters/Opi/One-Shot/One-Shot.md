@@ -10,9 +10,11 @@ There are windows with closed curtains that are unable to be opened. The bathroo
 
 Investigation of 10 or higher in the bedroom (desk) will reveal the resident(Eric) was a former Prism University student who got kicked out for bad grades and behavior. There is also a key in the desk drawer. Perception of 12 or higher in the living room  will reveal the rug on the floor has been burned, pulling the rug back reveals a trapdoor. The trapdoor is locked and the key can be found in the desk drawer (it can also be picked with a DC11 Sleight of Hand). The trapdoor has a weak glyph of warding that can be detected by a DC 14 Investigation check or a detect magic spell. The glyph requires a verbal password (Dylan). If the glyph is triggered, everyone in a 10ft radius takes 3d6 lightning damage.
 
-The trapdoor leads to downward steps into a dimly lit 20x20 room with a 10x10 metal walled cage in the back left corner. The door to the cage is open and both inside and outside of the case are buckets of water and rocks. There is a large desk with documents on it. The documents are instructions for creating a blistercoil weird and blueprints of Prism University and Ismeri Library. There is a calendar on the wall with the current date circled. Hopefully they deduce hes taken a blistercoil weird to the school with ill intent and head that way.
+The trapdoor leads to downward steps into a dimly lit 20x20 room with a 10x10 metal walled cage in the back left corner. The door to the cage is open and both inside and outside of the case are buckets of water and rocks. There is a large desk with documents on it. The documents are instructions for creating a [blistercoil weird](#blistercoil-weird-tecca) and blueprints of Prism University and Ismeri Library. There is a calendar on the wall with the current date circled. Hopefully they deduce hes taken a blistercoil weird to the school with ill intent and head that way.
 
-Its ~20min to the school and outside, they run into Connors character who says he thought he saw a blistercoil go into the library. There is a [scorchbringer guard](#guard) ducked behind a bush in front of the library who will join the party in the fight if engaged with. He is hesitant to use his scorchbringer and lets the party know not to hit the blistercoil with fire or it will grow. Looking into to the library will reveal a blistercoil weird near the back of the library and some bookshelves knocked over and on fire. The library is 200x60 and 50ft tall. There is an elevated section at the back that is 20ft off the ground with stairs leading up to it from both sides. The bookshelves on the ground floor are 30ft tall and there are groups of tables at the front left and right. The bookshelves on the second floor are 20ft tall with groups of tables in front of them. Under the second floor at the back are more bookshelves that touch the ceiling(20ft) and 2 study rooms that are 15x20. The first row of bookshelves has been mostly knocked over and are starting to catch fire, one other bookshelf near the weird is on fire but still standing. Eric is looking down on the chaos laughing from the second floor balcony. The guard lets the party know that the books in here are very valuable so they should try to save as many as they can, and try to take Eric alive if possible. Combat ensues, using the falling bookshelves as obstacles and difficult terrain. Eric will mostly attempt to run from the party and destroy more of the library rather than fight back. 
+Its ~20min to the school and outside, they run into Connors character who says he thought he saw a blistercoil go into the library. There is a [scorchbringer guard](#scorchbringer-guard) ducked behind a bush in front of the library who will join the party in the fight if engaged with. He is hesitant to use his scorchbringer and lets the party know not to hit the blistercoil with fire or it will grow. Looking into to the library will reveal a blistercoil weird near the back of the library and some bookshelves knocked over and on fire. The library is 200x60 and 50ft tall. There is an elevated section at the back that is 20ft off the ground with stairs leading up to it from both sides. The bookshelves on the ground floor are 30ft tall and there are groups of tables at the front left and right. The bookshelves on the second floor are 20ft tall with groups of tables in front of them. Under the second floor at the back are more bookshelves that touch the ceiling(20ft) and 2 study rooms that are 15x20.
+
+The first row of bookshelves has been mostly knocked over and are starting to catch fire, one other bookshelf near the weird is on fire but still standing. [Eric](#mage-eric) is looking down on the chaos laughing from the second floor balcony. The guard lets the party know that the books in here are very valuable so they should try to save as many as they can, and try to take Eric alive if possible. Combat ensues, using the falling bookshelves as obstacles and difficult terrain. Eric will mostly attempt to run from the party and destroy more of the library rather than fight back. 
 
 After combat the guard and firefighters will arrive, the party can choose to hand Eric over to the gaurd or kill him.
 
@@ -162,3 +164,17 @@ Special Traits
 **Actions**
 
 Dagger: Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 1d4 + 2 piercing damage.
+
+# Maps
+
+## Eric's House
+![House](./house.png)
+
+## Eric's Workshop
+![Workshop](./workshop.png)
+
+## Library Top Floor
+![Library Top](./library_top.png)
+
+## Library Bottom Floor
+![Library Bottom](./library_bottom.png)
