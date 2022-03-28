@@ -151,20 +151,20 @@ Level 8 wizard, spell save DC 14, +6 to hit with spell attacks. The mage has the
     - light
     - mage hand
     - prestidigitation
-- 1st level (4 slots)(1 used):
+- First level (4 slots)(1 used):
     - expeditious retreat
     - mage armor
     - magic missile 
     - shield
     - absorb elements
-- 2nd level (3 slots):
+- Second level (3 slots):
     - misty step
     - mirror image
-- 3rd level (3 slots):
+- Third level (3 slots):
     - counterspell
     - fireball
     - fly
-- 4th level (2 slots)(1 used):
+- Fourth level (2 slots)(1 used):
     - greater invisibility
     - death ward
 
