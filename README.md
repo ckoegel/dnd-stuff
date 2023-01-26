@@ -1,7 +1,9 @@
 # Personal DND Repository
 
 ![Spellcheck](https://github.com/ckoegel/dnd-stuff/actions/workflows/spell_check.yml/badge.svg)
-## Includes:
+
+## Includes
+
 * [Scanned Character Sheets](/Characters)
 * [Player Resources](/Resources)
 * [Homebrew Items for Ravnica](/Characters/Opi/Items)
@@ -16,4 +18,3 @@
   * [Weapons](/Characters/Opi/Items/Weapons)
     1. Pocket Mizzium Mortar
     2. Shapeshifting Shortsword
-  
